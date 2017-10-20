@@ -1,0 +1,468 @@
+html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 472px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding-bottom: 430px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u4422
+{
+	z-index: 31;
+	width: 47px;
+	margin-right: -10000px;
+	margin-top: 280px;
+	left: 114px;
+}
+
+#pu3992
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 137px;
+	left: 174px;
+}
+
+#u3992
+{
+	z-index: 3;
+	width: 588px;
+	margin-left: 3px;
+}
+
+#u3993
+{
+	z-index: 28;
+	width: 227px;
+	margin-right: -10000px;
+}
+
+._u3993.f3s_top
+{
+	height: 58px;
+	background-image: url("../images/u6580-full.png");
+	width: 227px;
+	padding-bottom: 25px;
+}
+
+#u4001
+{
+	z-index: 29;
+	width: 260px;
+	height: 38px;
+	background-image: url("../images/main%20page%20title%20button_bembo-u6573-fr.png");
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 13px;
+}
+
+#u4001:hover
+{
+	background-image: url("../images/main%20page%20title%20button_bembo-u6573-r-fr.png");
+	margin: 20px -10000px 0px 0px;
+}
+
+#u4001:active
+{
+	background-image: url("../images/main%20page%20title%20button_bembo-u6573-fr.png");
+	margin: 20px -10000px 0px 0px;
+}
+
+#u3994
+{
+	z-index: 4;
+	width: 330px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 258px;
+}
+
+._u3994.f3s_top
+{
+	height: 56px;
+	background-image: url("../images/u6581-full.png");
+	width: 330px;
+	padding-bottom: 26px;
+}
+
+#u3995
+{
+	z-index: 5;
+	width: 278px;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 30px;
+}
+
+#u4000
+{
+	z-index: 12;
+	width: 47px;
+	margin-right: -10000px;
+}
+
+#u3997
+{
+	z-index: 17;
+	width: 47px;
+	margin-right: -10000px;
+	left: 62px;
+}
+
+#u4422_states,#u4000_states,#u3997_states
+{
+	height: 26px;
+	width: 47px;
+}
+
+#u3996
+{
+	z-index: 21;
+	width: 62px;
+	margin-right: -10000px;
+	left: 116px;
+}
+
+#u3996_states
+{
+	height: 26px;
+	width: 62px;
+}
+
+#u3999
+{
+	z-index: 26;
+	width: 45px;
+	margin-right: -10000px;
+	left: 186px;
+}
+
+#u3999_states
+{
+	height: 26px;
+	width: 45px;
+}
+
+#u3998
+{
+	z-index: 7;
+	width: 36px;
+	margin-right: -10000px;
+	left: 242px;
+}
+
+#u3998_states
+{
+	height: 26px;
+	width: 36px;
+}
+
+#pu3932
+{
+	width: 0.01px;
+	margin-top: 42px;
+	position: relative;
+}
+
+#u3932
+{
+	z-index: 2;
+	width: 589px;
+	margin-right: -10000px;
+}
+
+._u3932.f3s_top
+{
+	width: 589px;
+	background-image: url("../images/u6582-sprite.png");
+	height: 27px;
+}
+
+._u3932.f3s_mid
+{
+	background-image: url("../images/u6582-sprite.png");
+	width: 589px;
+	height: 561px;
+}
+
+._u3932.f3s_bot
+{
+	width: 589px;
+	background-image: url("../images/u6582-sprite.png");
+	height: 26px;
+}
+
+#slideshowu4433
+{
+	z-index: 35;
+	width: 0.01px;
+	height: 448px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 13px;
+}
+
+#u4463
+{
+	position: absolute;
+	width: 553px;
+	height: 381px;
+	background-color: transparent;
+	top: 3px;
+	left: 4px;
+}
+
+#u4463popup
+{
+	z-index: 36;
+}
+
+#u4771
+{
+	z-index: 37;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -16px;
+	margin-right: -10000px;
+	position: relative;
+	top: -3px;
+	left: -4px;
+}
+
+#u4780
+{
+	z-index: 39;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -16px;
+	margin-right: -10000px;
+	position: relative;
+	top: -3px;
+	left: -4px;
+}
+
+#u4789
+{
+	z-index: 41;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -16px;
+	margin-right: -10000px;
+	position: relative;
+	top: -3px;
+	left: -4px;
+}
+
+#u4798
+{
+	z-index: 43;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -16px;
+	margin-right: -10000px;
+	position: relative;
+	top: -3px;
+	left: -4px;
+}
+
+#u4477
+{
+	position: absolute;
+	width: 270px;
+	top: 403px;
+	left: 152px;
+}
+
+#u4477popup
+{
+	z-index: 45;
+}
+
+#u4774
+{
+	z-index: 46;
+	width: 60px;
+	height: 45px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4774:hover
+{
+	border-color: #000000;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4783
+{
+	z-index: 48;
+	width: 60px;
+	height: 45px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 70px;
+}
+
+#u4783:hover
+{
+	border-color: #000000;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4783_img
+{
+	margin-top: -15px;
+	margin-bottom: -15px;
+}
+
+#u4792
+{
+	z-index: 50;
+	width: 60px;
+	height: 45px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 140px;
+}
+
+#u4792:hover
+{
+	border-color: #000000;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4774_img,#u4792_img
+{
+	margin-left: -1px;
+	margin-right: -1px;
+}
+
+#u4801
+{
+	z-index: 52;
+	width: 60px;
+	height: 45px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 210px;
+}
+
+#u4801:hover
+{
+	border-color: #000000;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4774.SSSlideLinkSelected,#u4783.SSSlideLinkSelected,#u4792.SSSlideLinkSelected,#u4801.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4774_clip,#u4783_clip,#u4792_clip,#u4801_clip
+{
+	overflow: hidden;
+	width: 60px;
+	height: 45px;
+}
+
+#u4801_img
+{
+	margin-left: -4px;
+	margin-right: -4px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u7674-7
+{
+	z-index: 54;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 532px;
+	margin-right: -10000px;
+	margin-top: 480px;
+	left: 29px;
+}
+
+#u7675-4
+{
+	z-index: 61;
+	width: 333px;
+	min-height: 23px;
+	background-color: transparent;
+	font-size: 15px;
+	font-family: alice, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 822px;
+	left: 420px;
+}
+
+#u7675-4:hover
+{
+	opacity: 0.44;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=44)";
+	filter: alpha(opacity=44);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 822px -10000px 0px 0px;
+}
+
+#u7675-4.MuseLinkActive
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 822px -10000px 0px 0px;
+}
+
+#u7675
+{
+	text-decoration: underline;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 357px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -821px;
+}
+

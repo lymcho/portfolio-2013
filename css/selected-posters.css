@@ -1,0 +1,214 @@
+html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 876px;
+	-pie-box-shadow: 1px 10px 9px #F4F3F3;
+	-moz-box-shadow: 1px 10px 9px rgba(169, 161, 161, 0.12);
+	-webkit-box-shadow: 1px 10px 9px -1px rgba(169, 161, 161, 0.12);
+	box-shadow: 1px 10px 9px rgba(169, 161, 161, 0.12);
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 26px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u4422
+{
+	z-index: 31;
+	width: 47px;
+	margin-right: -10000px;
+	margin-top: 280px;
+	left: 114px;
+}
+
+#pu3992
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 137px;
+	left: 174px;
+}
+
+#u3992
+{
+	z-index: 3;
+	width: 588px;
+	margin-left: 3px;
+}
+
+#u3993
+{
+	z-index: 28;
+	width: 227px;
+	margin-right: -10000px;
+}
+
+._u3993.f3s_top
+{
+	height: 58px;
+	background-image: url("../images/u6580-full.png");
+	width: 227px;
+	padding-bottom: 25px;
+}
+
+#u4001
+{
+	z-index: 29;
+	width: 260px;
+	height: 38px;
+	background-image: url("../images/main%20page%20title%20button_bembo-u6573-fr.png");
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 13px;
+}
+
+#u4001:hover
+{
+	background-image: url("../images/main%20page%20title%20button_bembo-u6573-r-fr.png");
+	margin: 20px -10000px 0px 0px;
+}
+
+#u4001:active
+{
+	background-image: url("../images/main%20page%20title%20button_bembo-u6573-fr.png");
+	margin: 20px -10000px 0px 0px;
+}
+
+#u3994
+{
+	z-index: 4;
+	width: 330px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 258px;
+}
+
+._u3994.f3s_top
+{
+	height: 56px;
+	background-image: url("../images/u6581-full.png");
+	width: 330px;
+	padding-bottom: 26px;
+}
+
+#u3995
+{
+	z-index: 5;
+	width: 278px;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 30px;
+}
+
+#u4000
+{
+	z-index: 12;
+	width: 47px;
+	margin-right: -10000px;
+}
+
+#u3997
+{
+	z-index: 17;
+	width: 47px;
+	margin-right: -10000px;
+	left: 62px;
+}
+
+#u4422_states,#u4000_states,#u3997_states
+{
+	height: 26px;
+	width: 47px;
+}
+
+#u3996
+{
+	z-index: 21;
+	width: 62px;
+	margin-right: -10000px;
+	left: 116px;
+}
+
+#u3996_states
+{
+	height: 26px;
+	width: 62px;
+}
+
+#u3999
+{
+	z-index: 26;
+	width: 45px;
+	margin-right: -10000px;
+	left: 186px;
+}
+
+#u3999_states
+{
+	height: 26px;
+	width: 45px;
+}
+
+#u3998
+{
+	z-index: 7;
+	width: 36px;
+	margin-right: -10000px;
+	left: 242px;
+}
+
+#u3998_states
+{
+	height: 26px;
+	width: 36px;
+}
+
+#u3932
+{
+	z-index: 2;
+	width: 589px;
+	margin-top: 42px;
+}
+
+._u3932.f3s_top
+{
+	width: 589px;
+	background-image: url("../images/u6582-sprite.png");
+	height: 27px;
+}
+
+._u3932.f3s_mid
+{
+	background-image: url("../images/u6582-sprite.png");
+	width: 589px;
+	height: 561px;
+}
+
+._u3932.f3s_bot
+{
+	width: 589px;
+	background-image: url("../images/u6582-sprite.png");
+	height: 26px;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 357px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
